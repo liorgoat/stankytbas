@@ -287,7 +287,7 @@ function skipAd() {
 let newTab = (url, uxor = true) => {
 	// creates a new hypertab!!
 	chromeTabs.addTab({
-		title: 'New StankyTab',
+		title: 'New SafeTab',
 		favicon: 'favicon.ico',
 	});
 
